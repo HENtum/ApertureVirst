@@ -1,0 +1,81 @@
+.whatBlocsContainer {
+  max-width: 1200px;
+  padding: 0 16px 0 16px;
+  margin: 0 auto;
+  margin-top: 113px;
+}
+.whatBlocs {
+  text-align: center;
+}
+.what {
+  font-weight: 400;
+  font-size: 40px;
+  line-height: 42px;
+  color: #ffffff;
+}
+.text {
+  font-weight: 400;
+  font-size: 23px;
+  line-height: 30px;
+  color: #c0c0c0;
+}
+.blocs {
+  margin-top: 42px;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 16px;
+}
+.bloc {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  max-width: 576px;
+  padding: 421px 45px 30px 30px;
+  background-color: crimson;
+}
+.text1 {
+  height: 40px;
+  font-size: 14px;
+  line-height: 20px;
+  letter-spacing: 2px;
+  text-transform: uppercase;
+  color: #ffffff;
+}
+.text2 {
+  text-align: start;
+  font-size: 14px;
+  line-height: 20px;
+  color: #c0c0c0;
+}
+.blocImage1 {
+  background-image: url(../resourses/blocImage1.jpg);
+  background-size: cover;
+}
+.blocImage2 {
+  background-image: url(../resourses/blocImage2.jpg);
+  background-size: cover;
+}
+.blocImage3 {
+  background-image: url(../resourses/blocImage3.jpg);
+  background-size: cover;
+}
+.blocImage4 {
+  background-image: url(../resourses/blocImage4.jpg);
+  background-size: cover;
+}
+.textBloc1 {
+  width: 501px;
+  height: 80px;
+}
+.textBloc2 {
+  width: 514px;
+  height: 80px;
+}
+.textBloc3 {
+  width: 516px;
+  height: 100px;
+}
+.textBloc4 {
+  width: 480px;
+  height: 100px;
+}

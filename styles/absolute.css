@@ -1,0 +1,40 @@
+.absoluteIcons {
+  position: absolute;
+  bottom: 40px;
+  right: 46px;
+  display: flex;
+  align-items: center;
+  -moz-column-gap: 16px;
+       column-gap: 16px;
+}
+
+.absIcon {
+  display: flex;
+  align-items: flex-start;
+  -moz-column-gap: 6px;
+       column-gap: 6px;
+}
+
+.absTetxt {
+  font-weight: 400;
+  font-size: 12px;
+  line-height: 12px;
+  color: #ffffff;
+}
+
+.blocButton {
+  padding: 5px 10px 5px 4px;
+  background: #ffffff;
+  border-radius: 14px;
+  display: flex;
+  -moz-column-gap: 6px;
+       column-gap: 6px;
+  align-items: center;
+}
+.blocButton p {
+  font-weight: 400;
+  font-size: 15px;
+  line-height: 20px;
+  letter-spacing: 0.4px;
+  color: #000000;
+}/*# sourceMappingURL=absolute.css.map */

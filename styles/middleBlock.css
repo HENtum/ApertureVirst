@@ -1,0 +1,48 @@
+.middleBlock {
+  position: relative;
+  display: flex;
+}
+
+.middleTextBlock {
+  display: flex;
+  align-items: center;
+  padding-left: 100px;
+  width: 50%;
+  height: 540px;
+  background-color: #000000;
+}
+
+.middleFotoBlock {
+  width: 50%;
+  height: 540px;
+  background-image: url(../resourses/middleFoto.jpg);
+  background-size: cover;
+}
+
+.middleT1 {
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 20px;
+  letter-spacing: 2px;
+  text-transform: uppercase;
+  color: #c0c0c0;
+}
+
+.middleT2 {
+  margin-top: 6px;
+  margin-bottom: 14px;
+  font-weight: 400;
+  font-size: 28px;
+  line-height: 32px;
+  color: #ffffff;
+}
+
+.middleT3 {
+  margin-bottom: 20px;
+  width: 514px;
+  height: 80px;
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 20px;
+  color: #ffffff;
+}/*# sourceMappingURL=middleBlock.css.map */

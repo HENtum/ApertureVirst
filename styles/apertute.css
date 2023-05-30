@@ -1,0 +1,39 @@
+.aperture {
+  position: relative;
+  background-image: url("../resourses/Aperture.jpg");
+  width: 100%;
+  background-size: cover;
+  padding: 466px 430px 71px 430px;
+  text-align: center;
+}
+
+.apertureText {
+  display: flex;
+  flex-direction: column;
+}
+
+.apertureText1 {
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 20px;
+  letter-spacing: 2px;
+  text-transform: uppercase;
+  color: #c0c0c0;
+}
+
+.apertureText2 {
+  font-weight: 400;
+  font-size: 54px;
+  line-height: 59px;
+  color: #ffffff;
+}
+
+.apertureText3 {
+  margin-top: 18px;
+  height: 80px;
+  font-style: normal;
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 20px;
+  color: #c0c0c0;
+}/*# sourceMappingURL=apertute.css.map */

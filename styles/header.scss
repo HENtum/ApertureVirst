@@ -1,0 +1,53 @@
+.header {
+  background-color: #181818;
+  height: 90px;
+  display: flex;
+  align-items: center;
+}
+.headerContainer {
+  max-width: 1200px;
+  padding-left: 32px;
+  padding-right: 20px;
+  margin: 0 auto;
+}
+.headerContent {
+  display: flex;
+  column-gap: 340px;
+  align-items: center;
+}
+.logoImg {
+  width: 128px;
+  height: 31px;
+}
+.nav {
+  display: flex;
+  column-gap: 32px;
+  align-items: center;
+  justify-content: space-between;
+}
+.navTextOne {
+  margin-right: 24px;
+  white-space: nowrap;
+  font-weight: 400;
+  font-size: 13px;
+  line-height: 20px;
+}
+.navText {
+  white-space: nowrap;
+  font-weight: 400;
+  font-size: 15px;
+  line-height: 20px;
+}
+.navButton {
+  display: block;
+  background: #ffffff;
+  border-radius: 14px;
+  width: 155px;
+  height: 42px;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 20px;
+  letter-spacing: 0.4px;
+  text-align: center;
+  color: #000000;
+}

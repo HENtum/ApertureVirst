@@ -1,0 +1,50 @@
+.logoBloc {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  row-gap: 82px;
+}
+.logoText {
+  margin-top: 113px;
+}
+.logoText1 {
+  margin-bottom: 15px;
+  text-align: center;
+  font-weight: 400;
+  font-size: 40px;
+  line-height: 42px;
+  color: #ffffff;
+}
+.logoText2 {
+  font-style: normal;
+  font-weight: 400;
+  font-size: 24px;
+  line-height: 30px;
+  text-align: center;
+  color: #c0c0c0;
+}
+.logoLogos {
+  display: flex;
+  align-items: center;
+  column-gap: 109px;
+}
+.logoImg1 {
+  width: 128px;
+  height: 30px;
+}
+.logoImg2 {
+  width: 128px;
+  height: 78px;
+}
+.logoImg3 {
+  width: 128px;
+  height: 20px;
+}
+.logoImg4 {
+  width: 128px;
+  height: 36px;
+}
+.logoImg5 {
+  width: 128px;
+  height: 32px;
+}
